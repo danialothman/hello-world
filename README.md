@@ -1,2 +1,2 @@
 # hello-world
-Learning this Github thing.
+Hey! My name is Danial!
